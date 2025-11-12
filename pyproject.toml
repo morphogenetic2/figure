@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "black>=25.11.0",
     "ipython>=9.7.0",
     "jupyter>=1.1.1",
     "marimo>=0.17.7",
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
+    "ruff>=0.14.4",
 ]
